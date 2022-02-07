@@ -1,2 +1,3 @@
-# hyoerblog
-Practica de curso Git -Git Hub --- Platzi.
+CURSO DE  PLATZI :bowtie:
+# Pratica de Markdown
+*HOLA MUNDO!!*
